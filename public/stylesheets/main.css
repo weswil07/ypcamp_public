@@ -1,0 +1,76 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+.newheader {
+    text-align: center
+}
+
+.newform {
+    width: 30%;
+    margin: 25px auto;
+}
+
+.thecampgrid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body {
+    background-color: #e9ece5;
+    color: #3b3a36;
+}
+
+.navbar {
+    background-color: #b3c2bf;
+    border: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: #3b3a36;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #3b3a36;
+}
+
+.container .jumbotron {
+    background-color: #b3c2bf;
+}
+
+.thumbnail {
+    background-color: #b3c2bf;
+}
+
+.btn-primary {
+    color: #c0dfd9;
+    background-color: #3b3a36;
+    border-color: #3b3a36;
+}
+
+.well {
+    background-color: #b3c2bf;
+    border: 1px solid #3b3a36;;
+}
+
+.list-group-item {
+    background-color: #b3c2bf;
+    color: #3b3a36;
+    border: 1px solid #3b3a36;
+}
+
+hr {
+    border-top: 1px solid #3b3a36;
+}
